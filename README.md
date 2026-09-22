@@ -1,6 +1,6 @@
 # Vobital Protocol
 
-> On-chain DeFi aggregator powered by SOMIDAX $SMDX — swap, pool, and earn across EVM & Solana ecosystems.
+> A Multi-Chain Sender/Swap DeFi Protocol; powered by SOMIDAX $SMDX — swap, pool, and earn across EVM & Solana ecosystems.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-22-green.svg)](https://nodejs.org)
